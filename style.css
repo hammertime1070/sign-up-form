@@ -1,0 +1,26 @@
+.title-panel {
+    background-image: url("bg.jpg");
+    display: flex;
+}
+
+.title-card {
+    display: flex;
+    background-color: black;
+    height: 20%;
+    align-self: center;
+    justify-content: center;
+
+}
+
+.title-card-text {
+    color:white;
+}
+
+.container {
+    display: flex;
+    background-color: black;
+}
+
+.form-panel {
+    background-color: white;
+}
